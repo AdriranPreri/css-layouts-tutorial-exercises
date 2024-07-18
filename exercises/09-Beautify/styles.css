@@ -27,3 +27,24 @@
 	overflow: hidden;
 	border-radius: 25px;
 }
+#div4 {
+	background-color: blue;
+	color: white;
+	border-radius: 50px;
+	width: 150px;
+	height: 100px;
+}
+#div5 {
+	background-color: red;
+	color: white;
+	border-radius: 25px;
+	width: 150px;
+	height: 100px;
+}
+#div6 {
+	background-color: black;
+	color: white;
+	border-radius: 25px;
+	width: 150px;
+	height: 100px;
+}

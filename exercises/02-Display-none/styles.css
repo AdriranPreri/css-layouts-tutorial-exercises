@@ -1,4 +1,15 @@
-/* your code here */
-#myFirstH2{
-    visibility: visible;
+h2 p:first {
+	display: none;
+}
+#myFirstH2 {
+	visibility: hidden;
+}
+#mySecondH2 {
+	display: none;
+}
+#myUL li {
+	display: inline;
+}
+strong {
+	display: block;
 }
